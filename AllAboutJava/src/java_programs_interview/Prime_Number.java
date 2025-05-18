@@ -10,7 +10,7 @@ public class Prime_Number {
 
         System.out.println("Enter the number");
 
-        int num = sc.nextInt();
+        int num = sc.nextInt(); 
         
         int i;
         
